@@ -1,0 +1,3 @@
+"C:\Program Files\JetBrains\CLion 2019.2.3\bin\cmake\win\bin\cmake.exe" -E remove -f CMakeFiles\RPGClient2.dir/objects.a
+D:\Progs\MinGW\bin\ar.exe cr CMakeFiles\RPGClient2.dir/objects.a @CMakeFiles\RPGClient2.dir\objects1.rsp
+D:\Progs\MinGW\bin\g++.exe -g   -Wl,--whole-archive CMakeFiles\RPGClient2.dir/objects.a -Wl,--no-whole-archive  -o RPGClient2.exe -Wl,--out-implib,libRPGClient2.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\RPGClient2.dir\linklibs.rsp

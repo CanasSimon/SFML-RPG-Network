@@ -1,0 +1,5 @@
+D:/CLion/OnlineTurnBasedGame/cmake-build-debug/CMakeFiles/RPGServer.dir
+D:/CLion/OnlineTurnBasedGame/cmake-build-debug/CMakeFiles/RPGClient1.dir
+D:/CLion/OnlineTurnBasedGame/cmake-build-debug/CMakeFiles/RPGClient2.dir
+D:/CLion/OnlineTurnBasedGame/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/CLion/OnlineTurnBasedGame/cmake-build-debug/CMakeFiles/rebuild_cache.dir
